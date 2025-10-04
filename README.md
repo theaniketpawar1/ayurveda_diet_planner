@@ -1,4 +1,6 @@
 🌿 Ayurvedic Diet Planner (AI-powered) 📌 Project Description
+https://ayurvedadietplanner.streamlit.app/
+https://ayurvedadietplanner.streamlit.app/
 
 This project is built for DevCreate BuildFest hackathon. It provides a personalized Ayurvedic diet recommendation system that detects a user’s dominant dosha (Vata, Pitta, Kapha) based on selected symptoms and generates a diet chart with precautions and suggestions using LLMs (Large Language Models) like Google Gemini / Grok AI.
 
@@ -22,3 +24,4 @@ Screenshots and demo video links can be added here.
 
 
 🏆 Hackathon Track Track: AI for Healthcare Problem Statement: Personalized Ayurvedic Diet Recommendation
+
